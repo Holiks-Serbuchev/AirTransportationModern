@@ -1,0 +1,213 @@
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\AirTransportationModern.exe.config
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\AirTransportationModern.exe
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\AirTransportationModern.pdb
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\Google.Protobuf.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\MySql.Data.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\System.Buffers.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\System.Memory.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\Zstandard.Net.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\Google.Protobuf.pdb
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\Google.Protobuf.xml
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\MySql.Data.xml
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\System.Buffers.xml
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\System.Memory.xml
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\obj\Debug\Themes\DarkTheme.baml
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\obj\Debug\Themes\LightTheme.baml
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\obj\Debug\MainWindow.g.cs
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\obj\Debug\App.g.cs
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern_MarkupCompile.cache
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern_MarkupCompile.lref
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\obj\Debug\App.baml
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\obj\Debug\MainWindow.baml
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.g.resources
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.Properties.Resources.resources
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.csproj.GenerateResource.cache
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.csproj.CoreCompileInputs.cache
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.csproj.CopyComplete
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.exe
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.pdb
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.csproj.AssemblyReference.cache
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\LiveCharts.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\LiveCharts.pdb
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\LiveCharts.xml
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\QRCoder.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\PdfSharp.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\PdfSharp.xml
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Holiks\source\repos\AirTransportationModern\AirTransportationModern\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\AirTransportationModern.exe.config
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\AirTransportationModern.exe
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\AirTransportationModern.pdb
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\BouncyCastle.Crypto.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\Google.Protobuf.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\K4os.Compression.LZ4.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\K4os.Hash.xxHash.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\LiveCharts.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\LiveCharts.Wpf.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\MySql.Data.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\PdfSharp.Charting.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\PdfSharp.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\QRCoder.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\System.Buffers.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\System.Memory.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\System.Numerics.Vectors.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\Ubiety.Dns.Core.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\Zstandard.Net.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\Google.Protobuf.pdb
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\Google.Protobuf.xml
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\K4os.Compression.LZ4.xml
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\K4os.Hash.xxHash.xml
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\LiveCharts.pdb
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\LiveCharts.xml
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\LiveCharts.Wpf.pdb
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\LiveCharts.Wpf.xml
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\MySql.Data.xml
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\PdfSharp.xml
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\PdfSharp.Charting.xml
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\System.Buffers.xml
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\System.Memory.xml
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\System.Numerics.Vectors.xml
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\de\PdfSharp.resources.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\obj\Debug\Themes\DarkTheme.baml
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\obj\Debug\Themes\LightTheme.baml
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\obj\Debug\MainWindow.g.cs
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\obj\Debug\App.g.cs
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern_MarkupCompile.cache
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern_MarkupCompile.lref
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\obj\Debug\App.baml
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\obj\Debug\MainWindow.baml
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.g.resources
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.Properties.Resources.resources
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.csproj.GenerateResource.cache
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.csproj.CoreCompileInputs.cache
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.csproj.CopyComplete
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.exe
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.pdb
+D:\Программирование\Дипломные работы\Final\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.csproj.AssemblyReference.cache
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\AirTransportationModern.exe.config
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\AirTransportationModern.exe
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\AirTransportationModern.pdb
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\Google.Protobuf.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\LiveCharts.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\MySql.Data.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\PdfSharp.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\QRCoder.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\System.Buffers.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\System.Memory.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\Zstandard.Net.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\Google.Protobuf.pdb
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\Google.Protobuf.xml
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\LiveCharts.pdb
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\LiveCharts.xml
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\MySql.Data.xml
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\PdfSharp.xml
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\System.Buffers.xml
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\System.Memory.xml
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.csproj.AssemblyReference.cache
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\obj\Debug\Themes\DarkTheme.baml
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\obj\Debug\Themes\LightTheme.baml
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\obj\Debug\MainWindow.g.cs
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\obj\Debug\App.g.cs
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern_MarkupCompile.cache
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern_MarkupCompile.lref
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\obj\Debug\App.baml
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\obj\Debug\MainWindow.baml
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.g.resources
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.Properties.Resources.resources
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.csproj.GenerateResource.cache
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.csproj.CoreCompileInputs.cache
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.csproj.CopyComplete
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.exe
+C:\Users\Holiks\Desktop\AirTransportationModern\AirTransportationModern\obj\Debug\AirTransportationModern.pdb
